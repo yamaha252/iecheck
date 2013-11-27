@@ -1,4 +1,4 @@
-iecheck
+js iecheck hack
 =======
 
-Checking for IE
+Checking for IE and write "ie" classname to <html> tag
